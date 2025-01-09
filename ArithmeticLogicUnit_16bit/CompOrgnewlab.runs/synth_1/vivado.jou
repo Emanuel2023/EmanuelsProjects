@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Dec  1 14:47:47 2024
+# Process ID: 23504
+# Current directory: C:/Users/KC/Documents/CompOrgnewlab/CompOrgnewlab.runs/synth_1
+# Command line: vivado.exe -log ALU_16bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU_16bit.tcl
+# Log file: C:/Users/KC/Documents/CompOrgnewlab/CompOrgnewlab.runs/synth_1/ALU_16bit.vds
+# Journal file: C:/Users/KC/Documents/CompOrgnewlab/CompOrgnewlab.runs/synth_1\vivado.jou
+# Running On: DESKTOP-6LUA3RC, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8502 MB
+#-----------------------------------------------------------
+source ALU_16bit.tcl -notrace
