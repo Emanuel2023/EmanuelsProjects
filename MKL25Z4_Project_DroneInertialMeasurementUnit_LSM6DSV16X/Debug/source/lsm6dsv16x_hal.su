@@ -1,0 +1,2 @@
+../source/lsm6dsv16x_hal.c:13:9:platform_write	72	static
+../source/lsm6dsv16x_hal.c:48:9:platform_read	72	static

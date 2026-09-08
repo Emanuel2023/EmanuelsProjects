@@ -1,0 +1,12 @@
+C:\Users\KC\Documents\MCUXpressoIDE_11.9.0_2144\workspace\MKL25Z4_Project_SparkfunTFTHyperDisplayConfigure\drivers/fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:38:13:KWH018ST01_delayMs	24	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:69:20:KWH018ST01_controller	16	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:79:24:KWH018ST01_hyperdisplay	24	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:95:6:KWH018ST01_4WSPI_init	16	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:109:17:KWH018ST01_4WSPI_begin	64	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:215:17:KWH018ST01_4WSPI_defaultConfigure	48	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:383:6:KWH018ST01_4WSPI_startup	24	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:425:6:KWH018ST01_4WSPI_getCharInfo	24	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:450:6:KWH018ST01_4WSPI_clearDisplay	128	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:492:6:KWH018ST01_4WSPI_setWindowDefaults	32	static
+../source/HyperDisplay_KWH018ST01_4WSPI.c:550:6:KWH018ST01_4WSPI_setBacklight	16	static

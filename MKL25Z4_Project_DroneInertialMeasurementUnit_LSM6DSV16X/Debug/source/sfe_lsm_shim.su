@@ -1,0 +1,3 @@
+../source/sfe_lsm_shim.c:12:6:LSM6DSV16X_InitContext	16	static
+../source/sfe_lsm_shim.c:32:9:LSM6DSV16X_PlatformWrite	72	static
+../source/sfe_lsm_shim.c:82:9:LSM6DSV16X_PlatformRead	72	static

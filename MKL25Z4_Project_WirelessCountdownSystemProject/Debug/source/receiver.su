@@ -1,0 +1,15 @@
+C:\Users\KC\Documents\MCUXpressoIDE_11.9.0_2144\workspace\MKL25Z4_Project_RadioCommunication\drivers/fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+C:\Users\KC\Documents\MCUXpressoIDE_11.9.0_2144\workspace\MKL25Z4_Project_RadioCommunication\drivers/fsl_clock.h:614:20:CLOCK_SetTpmClock	16	static
+C:\Users\KC\Documents\MCUXpressoIDE_11.9.0_2144\workspace\MKL25Z4_Project_RadioCommunication\drivers/fsl_port.h:321:20:PORT_SetPinMux	24	static
+C:\Users\KC\Documents\MCUXpressoIDE_11.9.0_2144\workspace\MKL25Z4_Project_RadioCommunication\drivers/fsl_tpm.h:579:20:TPM_StartTimer	24	static
+../source/receiver.c:134:13:FatalError	16	static
+../source/receiver.c:149:13:ReceiverLED_Init	32	static
+../source/receiver.c:222:13:ReceiverLED_SetFromADC	24	static
+../source/receiver.c:249:13:ReceiverLED_Off	8	static
+../source/receiver.c:263:13:SevenSegment_Init	8	static
+../source/receiver.c:368:13:SevenSegment_DisableDigits	8	static
+../source/receiver.c:382:13:SevenSegment_ClearSegments	8	static
+../source/receiver.c:425:13:SevenSegment_SetDigit	24	static
+../source/receiver.c:522:13:SevenSegment_EnableDigit	16	static
+../source/receiver.c:577:13:SevenSegment_Refresh	32	static
+../source/receiver.c:748:5:main	72	static

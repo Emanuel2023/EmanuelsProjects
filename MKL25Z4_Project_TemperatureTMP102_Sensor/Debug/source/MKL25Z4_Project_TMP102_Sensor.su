@@ -1,0 +1,10 @@
+../source/MKL25Z4_Project_TMP102_Sensor.c:25:6:delay_us	24	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:34:17:TMP102_WriteRegister	56	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:48:17:TMP102_ReadRegister	56	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:61:6:TMP102_Init	16	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:66:7:TMP102_ReadTempC	16	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:79:7:TMP102_ReadTempF	16	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:84:6:TMP102_IsAlertActive	16	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:91:6:TMP102_SetConversionRate	32	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:101:6:TMP102_SetExtendedMode	32	static
+../source/MKL25Z4_Project_TMP102_Sensor.c:111:5:main	48	static
